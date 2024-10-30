@@ -1,0 +1,25 @@
+.ipl_options  h4{
+	margin-bottom: 2px;
+}
+.ipl_options input[type=text] {
+	width: 100%;
+	margin-bottom:8px
+}
+.good_ip {
+    background: green;
+    color: white;
+    font-size: 10px;
+    border-radius: 9px;
+    padding: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+	float: right;
+}
+
+.error {
+	font-weight:normal;
+	color:red;
+	float:right
+}
+th {text-align:left}
+tr {text-align:left}
